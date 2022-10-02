@@ -1,0 +1,44 @@
+
+#title{
+    background: rgb(31, 30, 30);
+    width: auto;
+    height:auto;
+    padding: 15px;
+    color: white;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.list {
+    width: 500px;
+    height: 390px;
+    overflow-y: auto;
+}
+
+li{
+    list-style: none;
+    border: 1px solid grey;
+    border-radius: 2px;
+    padding: 10px;
+    margin-left: 160px;
+}
+
+/*p{
+    position: absolute;
+    top: 120px;
+    right: 500px;
+    font-size: smaller;
+}*/
+
+.list-group{
+    border-radius: 2px;
+}
+
+#details{
+    position: absolute;
+    width:700px;
+    height:auto;
+    top: 150px;
+    right: 500px;
+    left: 650px;
+}
